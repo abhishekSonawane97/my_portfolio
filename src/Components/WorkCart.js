@@ -4,9 +4,11 @@ import './WorkCartStyles.css';
 const WorkCart = (props) => {
   return (
     <div className="project-card">
+        <div className="poster">
                 <img src={props.imgsrc } alt="foodApp img" />
-                <h2 className="project-title">{props.title}</h2>
+                </div>
                 <div className="pro-details">
+                <h2 className="project-title">{props.title}</h2>
                     <p>{props.text }</p>
                     <div className="pro-btns">
                     <a href={props.view} target="_blank" rel="noreferrer">
