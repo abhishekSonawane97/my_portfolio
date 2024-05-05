@@ -23,7 +23,7 @@ const WorkCardData = [
   {
     imgsrc: techBlog_cover,
     title:'Tech Blog',
-    text:'Welcome to [Your App Name], the ultimate destination for technical enthusiasts and learners alike. Crafted with ReactJS, ReduxJS, and Firebase, our platform ensures seamless user authentication and authorization, while Node.js, Express.js, and MongoDB power our backend for reliable data storage and retrieval. Dive into a world of insightful technical content, where creators can effortlessly share their expertise and readers can engage through comments and likes. With advanced filtering capabilities by category or keywords, finding the perfect tech solution or tutorial is just a click away. Join us on [Your App Name] and explore the vast landscape of technical knowledge.',
+    text:'Welcome to TechBlog, the ultimate destination for technical enthusiasts and learners alike. Crafted with ReactJS, ReduxJS, and Firebase, our platform ensures seamless user authentication and authorization, while Node.js, Express.js, and MongoDB power our backend for reliable data storage and retrieval. Dive into a world of insightful technical content, where creators can effortlessly share their expertise and readers can engage through comments and likes. With advanced filtering capabilities by category or keywords, finding the perfect tech solution or tutorial is just a click away. Join us on TechBlog and explore the vast landscape of technical knowledge.',
     view:'https://mern-blog-33ns.onrender.com/',
     source:'https://github.com/abhishekSonawane97/mern-blog'
   },
